@@ -1,4 +1,6 @@
 # MetlitTE01
 
+AFDAL REZKI
+1900201
 
-# Repository Yang Digunakan Untuk Penyimpanan Literature Review Tugas Metodologi Penelitian
+# Repository Untuk Penyimpanan Jurnal Hasil Literature Review Tugas Metodologi Penelitian
